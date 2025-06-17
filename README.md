@@ -90,4 +90,36 @@ The following visualizations were created to better understand the data:
 
 ## 📁 File Structure
 
+📦Car_EDA_Project/
+┣ 📄 Cars_data.csv
+┣ 📄 Car_EDA.ipynb
+┗ 📄 README.md
+
+
+
+
+---
+
+## 🛠️ Tools & Libraries Used
+
+- Python 3.x
+- pandas
+- matplotlib
+- seaborn
+- numpy
+- Jupyter Notebook
+
+---
+
+## 📬 Contact
+
+For any questions or suggestions, feel free to reach out at:  
+**📧 your.email@example.com**
+
+---
+
+
+
+## 📁 File Structure
+
 
