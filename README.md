@@ -114,12 +114,9 @@ The following visualizations were created to better understand the data:
 ## 📬 Contact
 
 For any questions or suggestions, feel free to reach out at:  
-**📧 your.email@example.com**
+**📧 bhardwaj520gopal.com**
 
 ---
 
-
-
-## 📁 File Structure
 
 
